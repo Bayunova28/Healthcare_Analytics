@@ -1,5 +1,5 @@
 # JanataHack: Healthcare Analytics II
-<img src="https://github.com/Bayunova28/Healthcare_Analytics/blob/master/cover.png" height="450" width="1100">
+<img src="https://github.com/Bayunova28/Healthcare_Analytics/blob/master/cover.png" height="400" width="1100">
 
 ## Background
 <p align="justify">The healthcare sector has long been an early adopter of and benefited greatly from technological advances. Recent Covid-19 Pandemic has raised alarms 
@@ -12,7 +12,7 @@ optimized to miminize LOS and lower the chance of staff/visitor infection. Also,
 <img src="https://github.com/Bayunova28/Healthcare_Analytics/blob/master/relational-database.png" height="500" width="1100">
 
 ## Dashboard
-<img src="https://github.com/Bayunova28/Healthcare_Analytics/blob/master/dashboard-report.png" height="500" width="1100">
+<img src="https://github.com/Bayunova28/Healthcare_Analytics/blob/master/report.png" height="500" width="1100">
 
 ## Acknowledgement
 Dataset Source : [Kaggle](https://www.kaggle.com/datasets/vetrirah/av-healthcare2)
